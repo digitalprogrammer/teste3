@@ -1,0 +1,22 @@
+{
+  "clientes": [
+    {
+      "cpf": "111 222 ",
+      "nome": "Bruna Daiane da Luz",
+      "sexo": "f",
+      "dat_nasc": "1992-07-04T00:00:00",
+      "email": "bruna@email.com",
+      "phone": "79997722214",
+      "id": 1
+    },
+    {
+      "cpf": "12345555",
+      "nome": "João Geraldo Brito",
+      "sexo": "M",
+      "dat_nasc": "1980-02-21T00:00:00",
+      "email": "joao@email.com",
+      "phone": "79982120227",
+      "id": 2
+    }
+  ]
+}
